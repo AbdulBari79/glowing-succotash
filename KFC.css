@@ -1,0 +1,508 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 26px;
+    padding-bottom: 26px;
+    background-color: black;
+    font-weight: bold;
+}
+.nav1{display: flex;
+margin-left: 260px;}
+
+.nav12{display: flex;
+width: 125px;
+height: 35px;
+font-size: 15px;
+align-items: center;
+background-color: #1c1816;
+padding-left: 20px;
+margin-left: 10px;
+border-radius: 6px;
+border: 3px rgb(211, 47, 47) solid;}
+.nav12 p{margin-left: 0px;
+color: white;
+}
+/* nav{background-color: black;} */
+.nav13{
+    display: flex;
+width: 125px;
+height: 35px;
+font-size: 15px;
+align-items: center;
+background-color: #1c1816;
+padding-left: 20px;
+padding-bottom: 5px;
+margin-left: 10px;
+border-radius: 6px;
+color: white;
+}
+.LOGO{padding-top: 0px;
+display: flex;
+margin-top: 7px;}
+.nav2{display: flex;
+    margin-right: 240px;
+}
+.login{width: 80px;
+height: 35px;
+background-color:rgb(211, 47, 47);
+color: white;
+font-size: 18px;
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 6.5px;
+margin-left: 15px;
+margin-top: 0px;
+margin-bottom: 10px;
+}
+
+/* HERO_SECTION */
+.hero_section{width: 100vw;
+height: 670px;
+background-color: aquamarine;
+background-image: url(KFC\ DEAL.jpg);
+background-size: cover;
+}
+.hero1{
+    background-color: black;
+    height: 140px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+.hero1 button{background-color:rgb(211, 47, 47);
+    width: 800px;
+    height: 40px;
+    font-size: 18px;
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: 2px black solid;
+    margin-left: 0px;
+}
+.kcart{
+    margin-bottom: 0px;
+}
+.MENU{
+    padding-top: 7px;
+}
+.hero2{
+    background-color: black;
+    color: white;
+    
+}
+.hero2 p{margin-left: 20%;
+}
+.EXPLORE{
+    margin-left: 14%;
+}
+.line{margin-left: 14%;
+height: 3px;
+width: 90px;
+background-color:rgb(211, 47, 47) ;}
+
+body{
+    background-color:black;
+}
+.slide_bar{
+    display: flex;
+    margin-left: 12%;
+    margin-top: 100px;
+}
+.promotion{
+    width: 240px;
+    height: 210px;
+    display: flex;
+    border-top-left-radius: 100%;
+    border-bottom-left-radius: 100%;
+    border-top-right-radius: 100%;
+    border-bottom-right-radius: 20px;
+    background-color: #1c1816;
+    margin-left: 35px;
+    transition: all ease-in-out 0.3s;
+
+}
+.img{
+    margin-left: 30px;
+}
+/* .every{
+    color: white;
+    justify-content: center;
+    margin-top: 140px;
+    font-size: 23px;
+    margin-left: ;
+} */
+.line1{
+    height: 5px;
+    width: 60px;
+    background-color:rgb(211, 47, 47) ;
+    /* margin-top: 170px;
+    margin-left: -80px; */
+    margin-left: 50px;
+    margin-top: 7px;
+
+    border-radius: 20px;
+}
+.circle{
+    width: 17px;
+    height: 17px;
+    border-radius: 100%;
+    background-color: black;
+    margin-left: 170px;
+}
+.hotwings{color: white;
+justify-content: center;
+margin-left: 45px;
+font-size: 20px;
+}
+.a{margin-left: 40px;}
+.promotion1{color: white;
+    justify-content: center;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.midnight{color: white;
+    justify-content: center;
+    margin-left: 45px;
+    font-size: 20px;}
+.everyday{color: white;
+    justify-content: center;
+    margin-left: 30px;
+    font-size: 20px;}
+.snacks{color: white;
+    justify-content: center;
+    margin-left: 65px;
+    font-size: 20px;}
+.best{
+    color: white;
+    margin-left: 14%;
+    margin-top: 30px;
+}
+.box2{
+    height: 400px;
+    width: 280px;
+    background-color: #1c1816;
+    display: flex;
+    justify-content: center;
+    margin-left: 75px;
+    border-radius: 5px;
+}
+.box92{
+    height: 400px;
+    width: 280px;
+    background-color: #1c1816;
+    display: flex;
+    justify-content: center;
+    margin-left: 0px;
+    border-radius: 5px;
+}
+.rect{
+    background-color: rgb(211, 47, 47);
+    height: 28px;
+    width: 18px;
+    margin-left: 10px;
+    display: flex;
+}
+.red{
+    display: flex;
+    margin-left: 95px;
+}
+.h1{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+}.price{
+    background-color:rgb(211, 47, 47);
+    /* display: inline; */
+    height: 40px;
+    width: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 150px;
+    margin-top: 20px;
+
+}
+.price p{
+    display: inline;
+    color: white;
+}
+.afr1{
+    font-size: 20px;
+}
+.afr2{
+    font-size: 28px;
+    font-weight: bold;
+}
+.box32{display: flex;
+    margin-left: 14%;
+    margin-top: 30px;}
+/* nav{
+    position: fixed;
+    width: 100vw;
+} */
+nav{
+    position: sticky;
+    width: 100vw;
+    top: 0;
+}
+.add{
+    width: 310px;
+    height: 450px;
+    background-color: #1c1816;
+    border-radius: 10px;
+}
+.red1{
+    display: flex;
+    margin-left: 32%;
+}
+.lines{
+    height: 30px;
+    width: 20px;
+    background-color: rgb(211, 47, 47);
+    margin-left: 15px;
+}
+.img2{
+    margin-top: -30px;
+}
+.h2{
+    color: white;
+    margin-left: 14px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.para{
+    color: white;
+    margin-left: 14px;
+    margin-top: 10px;
+}
+.rup{
+    font-weight: bold;
+    color: white;
+    margin-left: 14px;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.box49{
+    display: flex;
+    margin-left: 14%;
+    margin-top: 30px;
+}
+.btn1{
+    background-color: rgb(211, 47, 47);
+    border: 0px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 82px;
+    height: 35px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1.5px solid rgb(211, 47, 47);
+    transition: transform 0.3s ease-in-out;
+}
+.add1{
+    width: 310px;
+    height: 450px;
+    background-color: #1c1816;
+    border-radius: 10px;
+    margin-left: 35px;
+}
+.images{
+    display: flex;
+    margin-left: 14%;
+    margin-top: 100px;
+}
+.image2{
+    margin-left: 20px;
+    border-radius:10px;
+}
+.pickup1,.fav{
+    border-radius:10px;   
+}
+.image44{
+    height: 417px;
+    width: 668px;
+    background-color: #1c1816;
+    margin-left: 20px;
+    border-radius:10px;
+}
+.meal{
+    margin-left: 150px;
+}
+.text{
+    color: white;
+    font-size: 25px;
+    margin-left: 10px;
+}
+.btn12{
+    background-color: rgb(211, 47, 47);
+    border: 0px;
+    margin-left: 33%;
+    margin-top: 20px;
+    width: 240px;
+    height: 60px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    font-size: 24px;
+    margin-top: 22px;
+    text-align: center;
+    align-items: center;
+}
+.f22{
+    margin-left: 250px;
+}
+.images49{
+    display: flex;
+    margin-left: 14%;
+    margin-top: 15px;
+}
+.footer1{
+    background-color: #1c1816;
+    height: 100px;
+    width: 100vw;
+    display: flex;
+    margin-top: 55px;
+}
+.insta,.face,.yt{
+    border-radius: 100px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.yt{
+    margin-left: 60px;
+}
+.images900{
+    display: flex;
+}
+.img330{
+    padding-top: 20px;
+    display: flex;
+}
+.images900{
+    margin-left: 40%;
+    margin-top: 30px;
+}
+.footer2{
+    background-color: #1c1816;
+    display: flex;
+    color: white;
+    height: 190px;
+    font-size: 19px;
+}
+.footer2 p{
+    margin-top: 15px;
+}
+.about_us{
+    margin-left: 300px;
+}
+.about_us1{
+    margin-left: 140px;
+}
+.about_us2{
+    margin-left: 200px;
+}
+.about_us3{
+    margin-left: 120px;
+}
+.footer3{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: #1c1816;
+    height: 110px;
+}
+.p1{
+    color: rgb(211, 47, 47);
+    font-size: 21px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.und{
+    text-decoration: underline;
+    font-size: 19px;
+}
+.footer31{
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 14%;
+    margin-top: 40px;
+}
+.footer32{
+    margin-right: 14%;
+}
+
+.p23{
+    display: block;
+    width: 27px;
+    height: 4px;
+    background-color: white;
+    margin-top: 10px;
+}
+.p24{
+    display: block;
+    width: 19px;
+    height: 4px;
+    background-color: white;
+    margin-top: 5px;
+}
+.p25{
+    display: block;
+    width: 27px;
+    height: 4px;
+    background-color: white;
+    margin-top: 5px;
+}
+.p430{
+    margin-right: 20px;
+}
+/* A Section for hover property */
+.p430:hover{cursor: pointer;}
+.LOGO:hover{cursor: pointer;}
+.nav12:hover{cursor: pointer;}
+.nav13:hover{cursor: pointer;}
+.kcart:hover{cursor: pointer;}
+.login:hover{cursor: pointer;}
+button:hover{cursor: pointer;}
+.hero_section:hover{cursor: pointer;}
+.img:hover{cursor: pointer;}
+.img330:hover{cursor: pointer;}
+.insta,.yt,.face:hover{cursor: pointer;}
+.EXPLORE:hover{cursor: text;}
+.best:hover{cursor: text;}
+.promotion:hover{
+    margin-top: -25px;
+    cursor: pointer;
+}
+.img2:hover {
+    transform: scale(1.1);
+}
+.img2 {
+    transition: transform 0.3s ease;
+}
+.add1,.add:hover{
+    cursor: pointer;
+}
+.btn1:hover{
+    background-color: white;
+    color: black;
+}
+.tt1:hover{color: rgb(211, 47, 47);
+cursor: pointer;}
+.apple:hover{
+    cursor: pointer;
+}
+.und:hover{
+    cursor: pointer;
+}
+.image1,.image2{
+    cursor: pointer;
+}
